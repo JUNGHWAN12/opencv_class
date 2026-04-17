@@ -1,6 +1,6 @@
 # 🐍 [opencv실습]
 
-대정고등학교 opencv 수업 실습 결과물 및 프로젝트를 모아둔 포트폴리오 저장소입니다.
+대정고등학교 opencv 수업 실습 결과물 및 프로젝트를 모아둔 코드 저장소입니다.
 
 ## 🛠️ 사용 기술 (Tech Stack)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
